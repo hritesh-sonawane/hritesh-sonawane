@@ -27,5 +27,7 @@
 <a href="https://www.facebook.com/hritesh.sonawane.3">
   <img align="left" alt="Hritesh Sonawane's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritesh93&layout=compact)](https://github.com/hritesh93/github-readme-stats)
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva3110&theme=radical&hide_langs_below=1&layout=compact" />
+
 

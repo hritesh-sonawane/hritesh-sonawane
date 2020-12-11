@@ -28,6 +28,6 @@
   <img align="left" alt="Hritesh Sonawane's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva3110&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritesh93&theme=radical&hide_langs_below=1&layout=compact" />
 
 

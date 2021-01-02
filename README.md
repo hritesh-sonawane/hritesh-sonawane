@@ -14,7 +14,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🌱 I’m currently learning AWS and Vue!
+- 🌱 I’m currently learning AWS and React!
 - 📫 How to reach me: hr7tesh@gmail.com <br>
 - 👯 I’m looking to collaborate on a potential podcast
 - 🤔 I’m looking for help with youtube/site redesign

@@ -20,8 +20,7 @@
 - ⚡ Fun fact: I love to play video games!
 - 👯 Fav Anime: Cowboy Bebop🤠
 
-### Where to find me?
-<p><a href="https://www.linkedin.com/in/hritesh-sonawane-1161891a0/" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+### 📫 Get in touch
+- LinkedIn - [Hritesh Sonawane](https://www.linkedin.com/in/hritesh-sonawane-1161891a0/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hritesh93/hritesh93)

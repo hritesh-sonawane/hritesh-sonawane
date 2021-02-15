@@ -1,5 +1,5 @@
 ## Hi there, I'm Hritesh Sonawane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Cloud. Mathematics. Cyber Security. 
+### Cloud | Cyber Security 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -13,7 +13,8 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🌱 I’m currently learning AWS and React!
+- 🌱 I’m currently learning k8s and React!
+- 🚀 AWS Certified Solutions Architect
 - 📫 Reach me: hr7tesh@protonmail.com <br>
 - 👯 I’m looking to collaborate on a potential podcast
 - 🤔 I’m looking for help with youtube/site redesign

@@ -15,7 +15,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🌱 I’m currently learning k8s and React!
+- 🌱 I’m currently learning React and Python!
 - 🚀 AWS Certified Solutions Architect
 - 📫 Reach me: hr7tesh@protonmail.com <br>
 - 👯 I’m looking to collaborate on a potential podcast

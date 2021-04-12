@@ -1,6 +1,6 @@
 ## Hi there, I'm Hritesh Sonawane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-ℹ️ [**My website**](https://www.hr7tesh.tech/)<br>
+ℹ️ [**Portfolio[Blog]**](https://www.hr7tesh.tech/)<br>
 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>

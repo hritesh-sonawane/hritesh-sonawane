@@ -1,7 +1,5 @@
 ## Hi there, I'm Hritesh Sonawane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! 🤩 &nbsp;
-
 - 🌱 I’m currently learning React and Python!
 - 🚀 AWS Certified Solutions Architect
 - 📫 Reach me: hr7tesh@protonmail.com <br>

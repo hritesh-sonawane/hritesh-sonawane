@@ -1,6 +1,7 @@
 ## Hi there, I'm Hritesh Sonawane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 I’m currently learning Golang & React!
+- 🌱 I’m currently learning Golang!
+- 🔖 Current Research: Network Security
 - 🚀 AWS Certified Solutions Architect
 - 📫 Reach me: hr7tesh@gmail.com <br>
 - 👯 I’m looking to collaborate on a potential podcast
